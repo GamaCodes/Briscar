@@ -14,8 +14,12 @@
   }
 }
 
+.app-image{
+  height: 30vw;
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color: black;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,7 +30,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: red;
   font-size: 1rem;
   letter-spacing: .8rem;
   font-weight: bold;
