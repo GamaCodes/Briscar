@@ -1,13 +1,10 @@
 import "./App.css";
+import Home from "./pages/Home";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src="/load.svg" className="app-image" alt="Briscar" />
-        <p>En construcción</p>
-        <p className="App-link">AGOSTO 2021</p>
-      </header>
+      <Home />
     </div>
   );
 }
